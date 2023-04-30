@@ -59,7 +59,7 @@ a {
 	color: var(--navyblue-shadow);
 }
 .logo > span {
-	color: var(--iris-active-focused);  
+	color: #2e2f42
 }
 /* Оформление героя */
 .hero {
